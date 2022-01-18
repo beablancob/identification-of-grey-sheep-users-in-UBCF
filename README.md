@@ -7,7 +7,7 @@ Through the different existing proposals to identify these users, the results gi
 
 Mainly, recommender system algorithms have been implemented. The widespread collaborative filtering method has been used to predict users' tastes, namely User-Based Collaborative Filtering.
 
-In addition, both unsupervised machine learning algorithms have been used, creating clusters based on improved versions of the KMeans algorithm, and supervised, using algorithms such as KNN. 
+In addition, both unsupervised machine learning algorithms have been used, creating clusters based on improved versions of the KMeans algorithm, and supervised ones, using algorithms such as KNN. 
 
 On the other hand, mathematical formulas have been used, such as t-tests, probability formulas and formulas to calculate the similarity between users. 
 
@@ -24,7 +24,7 @@ There are few research papers and investigations about how to treat these kind o
 
 ## Goal of the project
 
-The goal of this project is the implementation of different approaches and solutions to deal with grey sheep users, using User-Based Collaborative Filtering. Research communities have always focused on improving the efficiency of collaborative filtering algorithms. On the other hand, they have not paid attention to the problem of gray sheep users, being a major challenge of CF. The project focuses on comparing the results of the different solutions that has been given in the research papers, which there are just a few of them. The project will be using several datasets, applying Recommender Systems technologies in combination of Outlier Detection and Clustering Techniques.
+The goal of this project is the implementation of different approaches and solutions to deal with grey sheep users, using User-Based Collaborative Filtering. Research communities have always focused on improving the efficiency of collaborative filtering algorithms. On the other hand, they have not paid attention to the problem of gray sheep users, being a major challenge of CF. The project focuses on comparing the results of the different solutions that have been given in the research papers, which there are just a few of them. The project will be using the famous data set MovieLens, applying Recommender Systems technologies in combination of Outlier Detection and Clustering Techniques.
 
 
 
